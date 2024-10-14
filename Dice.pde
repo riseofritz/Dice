@@ -22,7 +22,7 @@ void draw()
 
   
   fill(255); 
-  text("Sum: " + sum, 10, 490); 
+  text("Sum: " + sum, 226, 480); 
 }
 
 void mousePressed()
